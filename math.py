@@ -17,5 +17,6 @@ def div(x,y):
     else:
         return x/y
 
+Squre implimentation
 def squre(x):
     return x*x;
