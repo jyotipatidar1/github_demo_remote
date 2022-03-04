@@ -20,3 +20,6 @@ def div(x,y):
 Squre implimentation
 def squre(x):
     return x*x;
+
+def half(x):
+    return x/2
