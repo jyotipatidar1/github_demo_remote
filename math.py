@@ -4,7 +4,7 @@ def add(x,y):
 
 subtraction implimentation
 def sub(x,y):
-    pass
+    return x-y
 
 multiply implimentation
 def mul(x,y):
